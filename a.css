@@ -1,0 +1,18 @@
+body {
+  font-family: "NanumGothic";
+}
+
+.male {
+  color: blue;
+} /*class선택 지정*/
+.female {
+  color: #e43681;
+}
+
+ul {
+  list-style: none;
+}
+
+#ceo {
+  background-color: #dfe0e1;
+} /*id 선택지정*/
